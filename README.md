@@ -1,6 +1,9 @@
 cpo-api
 =======
 
+> This fork into iQmetrix is simply a backup in case Synchronoss ever pulls the repo off of public GitHub.
+> Hopefully Synchronoss will keep [their repo](https://github.com/synchronoss/cpo-api) and [Maven artifact packages](https://mvnrepository.com/artifact/org.synchronoss.cpo) public and we (iQmetrix) will never need to build and maintain this project ourselves.
+
 Class Persistence Object (CPO) Application Programming Interface (API).
 
 Documentation can be found here: http://synchronoss.github.io/cpo-api/site/
